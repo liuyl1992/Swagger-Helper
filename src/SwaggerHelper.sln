@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lunz.Swagger", "Lunz.Swagger\Lunz.Swagger.csproj", "{0BDEA525-A4A2-4476-84C1-B5092B0FE0A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lunz.SwaggerHelper", "Lunz.SwaggerHelper\Lunz.SwaggerHelper.csproj", "{D06D0692-F7FD-480B-9C4B-AD6650B68227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDEA525-A4A2-4476-84C1-B5092B0FE0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDEA525-A4A2-4476-84C1-B5092B0FE0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDEA525-A4A2-4476-84C1-B5092B0FE0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDEA525-A4A2-4476-84C1-B5092B0FE0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06D0692-F7FD-480B-9C4B-AD6650B68227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06D0692-F7FD-480B-9C4B-AD6650B68227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06D0692-F7FD-480B-9C4B-AD6650B68227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06D0692-F7FD-480B-9C4B-AD6650B68227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74182314-78D5-4EFF-9C9F-F812FA730D28}
+	EndGlobalSection
+EndGlobal
